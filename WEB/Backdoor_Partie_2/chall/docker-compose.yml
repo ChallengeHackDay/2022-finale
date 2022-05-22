@@ -1,0 +1,8 @@
+version: "3.9"
+services:
+  web:
+    build: .
+    ports:
+      - "22:22"
+      - "80:80"
+      - "34865:34865/udp"

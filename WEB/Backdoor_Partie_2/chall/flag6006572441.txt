@@ -1,0 +1,5 @@
+BPF-based backdoors are almost invisible because they do not expose ports. 
+You have to send the right sequence to activate the backdoor.
+Moreover, we can easily bypass firewalls because we send the sequence on legitimate ports.
+
+HACKDAY{eBPF_BACKD00R_ARE_QU1TE_1NV1S1BLE}

@@ -1,0 +1,2 @@
+- https://en.wikipedia.org/wiki/Berkeley_Packet_Filter
+- https://packetstormsecurity.com/files/22121/cd00r.c.html

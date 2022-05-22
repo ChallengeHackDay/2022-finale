@@ -1,0 +1,14 @@
+Suite à la compromission de son serveur, le hacker qui nous attaquait a apparemment cessé son activité...
+... Jusqu'à aujourd'hui. 
+Une de nos équipe Blue-Team a remarqué une étrange séquence de paquets provenant de la même IP. 
+Il l'a alors bloqué dès son 2ème paquet. Cela ressemble à un scan, mais nous devons être sûrs qu'il n'y a pas de danger...
+Voici les logs qui ont été récupérés
+C'est à vous d'enquêter
+
+
+Following the compromise of his server, the hacker who was attacking us has apparently stopped his activity...
+... Until today. 
+One of our Blue-team noticed a strange sequence of packets coming from the same IP. 
+It then blocked it at its 2nd packet, it looks like a scan, but we need to be sure there is no danger
+Here are the logs that have been recovered
+It's up to you to investigate
