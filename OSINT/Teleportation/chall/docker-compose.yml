@@ -1,0 +1,9 @@
+version: "3.9"
+services:
+  ftp:
+    build: .
+    ports:
+      - "20:20"
+      - "21:21"
+    env_file : 
+      - .env
