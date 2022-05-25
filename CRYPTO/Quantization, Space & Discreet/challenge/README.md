@@ -16,16 +16,16 @@ Récupérez l'image !
 
 ##
 
-## Partie 1 :
+## Part 1 :
 
 My young cousin is trying to compress his image to JPEG format, he changed the colour space before extracting a light signal and two colour information. Get the image back!
 (The image you have to retrieve will look like the one given in the attachment, with the flag written on it)
 
-## Partie 2 :
+## Part 2 :
 
 My young cousin is trying to compress his image to JPEG format. In addition to what he already knows how to do, he managed to add a discrete cosine transform ^^. Get the image back!
 
-## Partie 3 :
+## Part 3 :
 
 My young cousin is trying to compress his image to JPEG format, and in addition to what he already knows how to do, he has managed to add quantization to his coefficients. 
 Get the image!
