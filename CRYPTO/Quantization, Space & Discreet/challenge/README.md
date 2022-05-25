@@ -1,9 +1,15 @@
 # Quantization, Space & Discreet :
 
+## Partie 1 :
+
 Mon petit cousin essaie de compresser son image au format JPEG, il a changé d'espace colorimétrique avant d'extraire un signal lumineux et deux informations de couleur. Récupérez l'image !
 (L'image que vous devez retrouver ressemblera à celle donnée en pièce jointe, avec le drapeau écrit dessus)
 
+## Partie 2 :
+
 Mon petit cousin essaie de compresser son image au format JPEG. En plus de ce qu'il sait déjà faire, il a réussi à ajouter une transformée en cosinus discret ^^. Récupérez l'image !
+
+# Partie 3 :
 
 Mon petit cousin essaie de compresser une image au format JPEG, en plus de ce qu'il sait déjà faire, il a réussi à ajouter la quantification à ses coefficients. 
 Récupérez l'image !
